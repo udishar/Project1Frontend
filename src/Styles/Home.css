@@ -1,0 +1,100 @@
+.tilte{
+    color: moccasin;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(20, 20, 19);
+    font-weight: bolder;
+   
+}
+.Wrapper{
+    display: flex;
+    position: absolute;
+}
+
+.Img2{
+    height: 300px;
+    padding: 5px;
+   
+
+}
+.Img-Style{
+    
+    height: fit-content;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: 40px;
+    margin-top: 150px;
+    background-color: rgb(65, 60, 60);
+    
+    
+}
+body{
+ background-color: moccasin;
+}
+
+.heading{
+    font-size: 50px;
+    width: fit-content;
+    margin-left: 40px;
+    margin-top: 150px;
+}
+.Para{
+
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: justify;
+}
+/* 
+@media screen and (min-width :360px) {
+    .tilte{
+        color: moccasin;
+        text-align: center;
+        margin-top: 40px;
+        background-color: rgb(20, 20, 19);
+        font-weight: bolder;
+    
+} 
+.Wrapper{
+    display: flex;
+    position: absolute;
+}
+
+.Img2{
+    height: 300px;
+    padding: 5px;
+   
+
+}
+.Img-Style{
+    
+    height: fit-content;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: 40px;
+    margin-top: 150px;
+    background-color: rgb(65, 60, 60);
+    
+    
+}
+body{
+ background-color: moccasin;
+}
+
+.heading{
+    font-size: 50px;
+    width: fit-content;
+    margin-left: 40px;
+    margin-top: 150px;
+}
+.Para{
+
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: justify;
+}} */
